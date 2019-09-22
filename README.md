@@ -21,6 +21,8 @@ When complete, you'll be able to grab random quotes from the command line, like 
 >  OK still testing
 > 
 > I can now make a line to the left of my text in README files on github
+>
+> Don't forget next step for python lesson
 
 
 You can find your next step in [this repo's issues](../../issues/)!
