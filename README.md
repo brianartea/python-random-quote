@@ -14,11 +14,11 @@ When complete, you'll be able to grab random quotes from the command line, like 
 
 ## Start the Tutorial
 
-> **$** Testing README file
+> Testing README file
 > 
 > Testing
 > 
-> **$** OK still testing
+>  OK still testing
 > 
 > I can now make a line to the left of my text in README files on github
 
