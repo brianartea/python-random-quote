@@ -14,13 +14,13 @@ When complete, you'll be able to grab random quotes from the command line, like 
 
 ## Start the Tutorial
 
-> **$** python get-quote.py
+> **$** Testing README file
 > 
-> Keep it logically awesome
+> Testing
 > 
-> **$** python get-quote.py
+> **$** OK still testing
 > 
-> Speak like a human
+> I can now make a line to the left of my text in README files on github
 
 
 You can find your next step in [this repo's issues](../../issues/)!
